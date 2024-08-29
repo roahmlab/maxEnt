@@ -1,0 +1,9 @@
+- Get to actual SeDuMi calls!
+
+- Detect and remove instances such as:
+
+v = ...; A = ...;
+[pr,t] = pr.newPos(1); (or free)
+pr = pr.withPSD([t v' ;  v A]);
+
+presolve problem AND produce correct dual variables!

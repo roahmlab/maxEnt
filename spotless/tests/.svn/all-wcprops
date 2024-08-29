@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/spot/!svn/ver/9371/branches/spotless/tests
+END
+msspoly_tests.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/spot/!svn/ver/9373/branches/spotless/tests/msspoly_tests.m
+END
+mssprog_tests.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/spot/!svn/ver/9409/branches/spotless/tests/mssprog_tests.m
+END
+spotsqlprg_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/spot/!svn/ver/9412/branches/spotless/tests/spotsqlprg_test.m
+END
+spotsqlprg.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9410/branches/spotless/tests/spotsqlprg.m
+END
+spotsosprg_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/spot/!svn/ver/9413/branches/spotless/tests/spotsosprg_test.m
+END
+test_randomPoly.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/spot/!svn/ver/9373/branches/spotless/tests/test_randomPoly.m
+END

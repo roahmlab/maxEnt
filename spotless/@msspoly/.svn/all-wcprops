@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/spot/!svn/ver/9385/branches/spotless/@msspoly
+END
+assign.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9405/branches/spotless/@msspoly/assign.m
+END
+pdecomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9409/branches/spotless/@msspoly/pdecomp.m
+END
+mono0.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9370/branches/spotless/@msspoly/mono0.m
+END
+repmat.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9409/branches/spotless/@msspoly/repmat.m
+END
+minus.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9370/branches/spotless/@msspoly/minus.m
+END
+power.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9409/branches/spotless/@msspoly/power.m
+END
+dmsubs.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9408/branches/spotless/@msspoly/dmsubs.m
+END
+sparse.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9374/branches/spotless/@msspoly/sparse.m
+END
+mtimes.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9409/branches/spotless/@msspoly/mtimes.m
+END
+monomials.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/spot/!svn/ver/9409/branches/spotless/@msspoly/monomials.m
+END
+trace.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9370/branches/spotless/@msspoly/trace.m
+END
+mono_down.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/spot/!svn/ver/9370/branches/spotless/@msspoly/mono_down.m
+END
+subss.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9394/branches/spotless/@msspoly/subss.m
+END
+span.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9408/branches/spotless/@msspoly/span.m
+END
+mrdivide.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9370/branches/spotless/@msspoly/mrdivide.m
+END
+sum.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/spot/!svn/ver/9370/branches/spotless/@msspoly/sum.m
+END
+diag.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9370/branches/spotless/@msspoly/diag.m
+END
+display.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9380/branches/spotless/@msspoly/display.m
+END
+integral.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9409/branches/spotless/@msspoly/integral.m
+END
+msspoly.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9420/branches/spotless/@msspoly/msspoly.m
+END
+decomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9420/branches/spotless/@msspoly/decomp.m
+END
+vertcat.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9370/branches/spotless/@msspoly/vertcat.m
+END
+mpower.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9370/branches/spotless/@msspoly/mpower.m
+END
+horzcat.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9370/branches/spotless/@msspoly/horzcat.m
+END
+mono_root.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/spot/!svn/ver/9370/branches/spotless/@msspoly/mono_root.m
+END
+isfree.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9370/branches/spotless/@msspoly/isfree.m
+END
+nonzeros.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9421/branches/spotless/@msspoly/nonzeros.m
+END
+transpose.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/spot/!svn/ver/9370/branches/spotless/@msspoly/transpose.m
+END
+uminus.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9370/branches/spotless/@msspoly/uminus.m
+END
+length.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9370/branches/spotless/@msspoly/length.m
+END
+ctranspose.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/spot/!svn/ver/9392/branches/spotless/@msspoly/ctranspose.m
+END
+isfunction.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/spot/!svn/ver/9370/branches/spotless/@msspoly/isfunction.m
+END
+real.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9392/branches/spotless/@msspoly/real.m
+END
+recomp.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9409/branches/spotless/@msspoly/recomp.m
+END
+subsasgn.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9416/branches/spotless/@msspoly/subsasgn.m
+END
+issimple.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9392/branches/spotless/@msspoly/issimple.m
+END
+reshape.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9417/branches/spotless/@msspoly/reshape.m
+END
+msubs.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9392/branches/spotless/@msspoly/msubs.m
+END
+conj.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9393/branches/spotless/@msspoly/conj.m
+END
+isempty.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9370/branches/spotless/@msspoly/isempty.m
+END
+match.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9370/branches/spotless/@msspoly/match.m
+END
+deg.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/spot/!svn/ver/9392/branches/spotless/@msspoly/deg.m
+END
+isscalar.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9409/branches/spotless/@msspoly/isscalar.m
+END
+indexinto.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/spot/!svn/ver/9392/branches/spotless/@msspoly/indexinto.m
+END
+istrig.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9420/branches/spotless/@msspoly/istrig.m
+END
+gets.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9370/branches/spotless/@msspoly/gets.m
+END
+isequal.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9409/branches/spotless/@msspoly/isequal.m
+END
+fn.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/spot/!svn/ver/9420/branches/spotless/@msspoly/fn.m
+END
+mono.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9370/branches/spotless/@msspoly/mono.m
+END
+diff.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9392/branches/spotless/@msspoly/diff.m
+END
+uplus.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9370/branches/spotless/@msspoly/uplus.m
+END
+subsref.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/spot/!svn/ver/9396/branches/spotless/@msspoly/subsref.m
+END
+linear.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9370/branches/spotless/@msspoly/linear.m
+END
+double.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/spot/!svn/ver/9392/branches/spotless/@msspoly/double.m
+END
+size.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9370/branches/spotless/@msspoly/size.m
+END
+subs.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9409/branches/spotless/@msspoly/subs.m
+END
+imag.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9392/branches/spotless/@msspoly/imag.m
+END
+find.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9421/branches/spotless/@msspoly/find.m
+END
+times.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9409/branches/spotless/@msspoly/times.m
+END
+clean.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/spot/!svn/ver/9395/branches/spotless/@msspoly/clean.m
+END
+plus.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/spot/!svn/ver/9409/branches/spotless/@msspoly/plus.m
+END

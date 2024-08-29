@@ -1,0 +1,61 @@
+\documentclass{article}
+\usepackage{listings}
+\lstset{language=Matlab}
+\newcommand{\spotless}{SPOT{\small LESS} }
+\title{\spotless}
+\author{Mark M. Tobenkin, Alexandre Megretski}
+\begin{document}
+\maketitle
+
+\spotless is a tool for modeling semidefinite programming (SDP) problems, with an emphasis on those associated with sum-of-squares (SOS) programming.  There are a number of freely available tools for addressing this and similar problems, but \spotless is particularly designed to for {\it building libraries}.
+If the reader is interested in modeling a single SOS or SDP problem, for most purposes we recommend YALMIP or CVX as alternatives.
+
+\spotless consists of two basic layers: a simple symbolic algebra library, and a system for describing SDP and SOS problems.
+This second layer makes calls to several external optimization programs, (in particular GLPK and SeDuMi) to prepare and solve these problems -- no solver is included.
+\section{Quick Start Examples}
+
+% Fit a convex polynomial to data.
+\begin{lstlisting}
+%--- Generate Problem Data:
+n = 2; N = 1000;
+X = randn(n,N);
+Y = exp(-sum(X.^2)) + 0.01*rand(1,N);
+
+
+%--- Construct a new SOS Program.
+pr = spotsosprog;
+
+%--- Define function to fit to data.
+
+% Create a n-by-1 symbolic variable, with name x.
+x = msspoly('x',n);
+% Create a basis for fitting.
+% All terms (x(1)^a(1)*...*x(n)^a(n)), s.t. sum(a) in 0:4.
+basis = monomials(x,0:d);
+
+% Create a polynomial, f = coeff'*basis, where
+% coeff are new free variables.
+[pr,f,coeff] = pr.newFreePoly(basis);
+
+%--- Provide conditions to ensure f is convex.
+% Construct the Jacobian of f w.r.t x.
+Df = diff(f,x);
+% Construct the Hessian of f w.r.t x 
+H  = 0.5*diff(Df',x);
+% Make another n-by-1 column of indeterminates.
+q = msspoly('q',n);
+% Require q'H(x)q to be a SOS 
+pr = pr.withSOSMatrix(H);
+
+
+
+\end{lstlisting}
+
+\section{Classes}
+\subsection{{\lstinline{msspoly}}}
+\subsection{{\lstinline{spotsqlprog}}}
+\subsection{{\lstinline{spotsosprog}}}
+
+
+
+\end{document}

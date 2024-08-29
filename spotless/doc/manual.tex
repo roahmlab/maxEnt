@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{relsize}
+\usepackage{verbatim}
+\newcommand{\spotless}{{SPOT{\relsize{-2}LESS}}}
+\newcommand{\matlab}{MATLAB}
+\title{\spotless{}}
+\date{April 22nd, 2012}
+\author{Mark M. Tobenkin, Alexandre Megretski}
+\begin{document}
+\maketitle
+\begin{abstract}
+  \spotless{} is a tool for authors of \matlab{} toolboxes which rely on conic optimization.  It provides tools for posing problems to modern interior point SDP solvers such as SeDuMi \cite{SeDuMi} and SDPT3 \cite{SDPT3}.  The design of the toolbox is focused on providing ease for manipulating the objects involved in a problem definition programmatically, and efficiency in creating many related conic constraints simultaneously.  \spotless{} consists of a reduced symbolic polynomial library which uses floating point representation of coefficients and an engine for constructing conic programs represented by these expressions.
+\end{abstract}
+\section{Manipulating Polynomials: {\tt msspoly}}
+The class {\tt msspoly} stores and manipulates multivartie matrix polynomials.  {\tt msspoly} are constructed in one of three ways.
+
+\begin{verbatim}
+x = msspoly('x');
+y = msspoly('y',3);
+z = msspoly('z',[3 4]);
+\end{verbatim}
+
+Here {\tt x} will be an {\tt 1-by-1} matrix with a single scalar element whose name is {\tt 'x'}.
+
+
+The following functions behave much as would be expected in any symbolic library:
+\begin{enumerate}
+\item Arithmetic: {\tt diag, imag, minus, mpower, mtimes, plus, power, real, subs, sum, times, trace, uminus, uplus}.
+\item Array Manipulation: {\tt ctranspose, horzcat, isempty, length, repmat, reshape, size, subsasgn, subsref, transpose, vertcat}.
+\end{enumerate}
+A caveat is that {\tt subsasgn} will not expand the size of a 
+\section{Constructing Conic Programs}
+
+\end{document}

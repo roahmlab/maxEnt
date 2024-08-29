@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/spot/!svn/ver/9400/branches/spotless/util
+END
+mss_free_poly.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/spot/!svn/ver/9411/branches/spotless/util/mss_free_poly.m
+END
+spot_isIntGE.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9409/branches/spotless/util/spot_isIntGE.m
+END
+mss_standardize_trig_power.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/spot/!svn/ver/9406/branches/spotless/util/mss_standardize_trig_power.m
+END
+spot_hasSize.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/spot/!svn/ver/9409/branches/spotless/util/spot_hasSize.m
+END
